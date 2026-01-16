@@ -1,4 +1,4 @@
-Ce rapport de conception présente l'étude approfondie du projet de plateforme éducative EduFamily
+Ce projet de conception présente l'étude approfondie du projet de plateforme éducative EduFamily
 Connect, visant à créer un écosystème numérique complet reliant élèves, parents et enseignants.
 La première partie du rapport expose l'analyse des besoins fonctionnels, non fonctionnels et
 techniques, servant de fondement à la conception.
